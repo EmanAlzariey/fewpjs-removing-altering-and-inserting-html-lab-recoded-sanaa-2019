@@ -12,4 +12,3 @@ newHeader.id = "victory"
 var node = document.createTextNode("Eman is the champion ^_* !");
 newHeader.appendChild(node);
 document.body.appendChild(newHeader)
-
